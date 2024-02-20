@@ -1,5 +1,4 @@
 # !!!WAŻNE INFORMACJE!!!
-Symulator automatu z napojami.
 
 Aplikacja została stworzona w oparciu o bazę danych w języku: 'SQL' ,przy użyciu: 'Microsoft SQL Server Express (64-bit)'  oraz 'Microsoft SQL Server Management Studio'.
 Przed przystąpieniem do pracy z aplikacją upewnij się że:
