@@ -12,5 +12,5 @@ o nazwie: 'ISQLcomunication':
 1. 'serverName' - nazwa serwera bazy danych,
 2. 'databaseName' - nazwa bazy danych,
 3. 'connectonString' - ciąg połączenia.
-4. 
+
 Żeby zalogować się do menu pracownika w wyborze produktów/'Input' wpisz: '68718'. Po przeniesieniu do systemu logowania login to: 'kKida', a hasło: 'De2@Vfa'. 
